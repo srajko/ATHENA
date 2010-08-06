@@ -1,0 +1,21 @@
+ATHENA Project: Management Tools for the Cultural Sector
+Copyright (C) 2010, Fractured Atlas
+
+This document is licensed under a Creative Commons Attribution 3.0 United
+States License, a copy of which you should have received with this
+document. If not, see http://creativecommons.org/licenses/by/3.0/us
+
+You may share and adapt this work under the terms this license, provided
+you describe the changes and attribute the original work to the copyright
+holder above.
+
+======
+
+ATHENA is a modular service-oriented application.  The first component in development is Parakeet, a schemaless key-value store that ATHENA uses to store data.  Parakeet is available here: http://www.github.com/fracturedatlas/parakeet.  
+
+This repository will contain:
+* An ATHENA installer
+* A walkthrough
+* ATHENA documentation
+* Examples
+* Contributions from the community
